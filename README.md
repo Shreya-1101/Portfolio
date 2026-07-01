@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website built with HTML, CSS,
 and JavaScript. Deployed live via GitHub Pages.
 
 ## 🔗 Live Site
-👉 [https://shreya-1101.github.io/Portfolio/](https://shreya-1101.github.io/Portfolio/)
+👉 [[https://shreya-1101.github.io/Portfolio/](https://shreya-1101.github.io/Portfolio/)]
 
 ---
 
